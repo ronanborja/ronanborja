@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronanborja
-- 👀 I’m interested in Java Full Stack Development but more on Backend. I also want to learn data science using Python, and ethical hacking and cyber security.
-- 🌱 I’m currently learning Core Java and I want to improve in programming. Someday, I want to develop my own software startup company and contribute a huge impact to the people in the world. 
+- 👀 I’m a Java Full Stack Developer.
+- 🌱 Someday, I want to develop my own software startup company and contribute a huge impact to the people in the world. 
 -  💞️ I’m looking to collaborate on Java projects...
 - 📫 How to reach me ... Just contact me on Viber/WhatsApp - +639053201268
 
